@@ -1,0 +1,58 @@
+*{
+    font-family: Montserrat !important;
+}
+   
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.topcarddiv{
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px 20px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.cardbox1{
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.cardbox1.cardbox2,.cardbox3,.cardbox4{
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; 
+}
+
+
+.inputhtmlvalue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 90%;
+}
+.inputjavavalue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 90%;
+}
+.inputpythonvalue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 90%;
+}
+.inputjqueryvalue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 90%;
+}
